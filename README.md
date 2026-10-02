@@ -15,11 +15,9 @@ School of Artificial Intelligence, China University of Mining and Technology, Be
 
 ## News
 
-| | |
-| --- | --- |
-| **Oct 2026** | Technical report on arXiv: [OpenSpace Lab Solution to the IROS 2026 Indoor Exploration Competition](https://arxiv.org/abs/2610.01505). **1st** on the Single-Robot Public Track. **3rd** on both Private Tracks. |
-| **2025** | Survey on sequential prediction for crop growth and yield, under review at *Computers and Electronics in Agriculture*. |
-| **2025** | First Prize, Beijing site, Contemporary Undergraduate Mathematical Contest in Modeling. Second Prize, 1st Beijing College Students' "AI+" Innovation Competition. |
+- **Oct 2026.** Technical report on arXiv: [OpenSpace Lab Solution to the IROS 2026 Indoor Exploration Competition](https://arxiv.org/abs/2610.01505). **1st** on the Single-Robot Public Track. **3rd** on both Private Tracks.
+- **2025.** Survey on sequential prediction for crop growth and yield, under review at *Computers and Electronics in Agriculture*.
+- **2025.** First Prize, Beijing site, Contemporary Undergraduate Mathematical Contest in Modeling. Second Prize, inaugural Beijing College Students' "AI+" Innovation Competition.
 
 ## Publications
 
@@ -76,6 +74,6 @@ School of Artificial Intelligence, China University of Mining and Technology, Be
 - **1st place**, Single-Robot Public Track, IROS 2026 Indoor Exploration Competition (OpenSpace Lab)
 - **3rd place**, Single-Robot Private Track and Multi-Robot Private Track, IROS 2026
 - **First Prize**, Beijing site, undergraduate division, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (高教社杯)
-- **Second Prize**, 1st Beijing College Students' "AI+" Innovation Competition, industry–intelligence application track (team 科创算力天团)
+- **Second Prize**, inaugural Beijing College Students' "AI+" Innovation Competition, industry–intelligence application track (team 科创算力天团)
 - **Third Prize**, 16th Chinese Mathematics Competitions, non-mathematics group A
 - **Third Prize**, 16th Lanqiao Cup, Beijing regional, Python, university group A
